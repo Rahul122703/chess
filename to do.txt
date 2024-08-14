@@ -1,0 +1,9 @@
+making real time connection
+
+rules:
+pieces can only move to the place as rules
+pieces cannot jump over pieces except knight
+pices of same color cannot move to occupied place of same color piece
+
+
+
